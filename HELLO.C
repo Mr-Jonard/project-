@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <conio.h>
-void gotoxy(int,int);
+
 int main()
 {
  int choice_int;
